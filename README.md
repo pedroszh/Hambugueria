@@ -22,8 +22,4 @@ Bem-vindo ao projeto da **Hamburgueria**, uma aplicação web que oferece uma ex
 - `styles/output.css`: Arquivo de estilo gerado pelo Tailwind CSS.
 - `script.js`: Arquivo JavaScript para manipulação do carrinho de compras e interação com a interface.
 
-## Como Rodar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Hamburgueria.git
